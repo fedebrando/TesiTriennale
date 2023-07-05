@@ -1,0 +1,2 @@
+and_(invert(nand(invert(rcshf2(or_(nor(lcshf(rcshf4(rcshf2(nor(we, 907615001)))), lcshf(we)), rcshf2(lcshf(rcshf4(rcshf2(nor(we, 907615001)))))))), rcshf2(rcshf2(lcshf(we))))), nor(we, and_(nand(we, rcshf4(lcshf4(we))), lcshf(we))));23;0.15856058536585366
+and_(invert(nand(invert(rcshf2(or_(nor(lcshf(rcshf4(rcshf2(nor(lcshf2(we), we)))), lcshf(lcshf4(lcshf(we)))), rcshf2(lcshf(rcshf4(rcshf2(nor(we, 907615001)))))))), rcshf2(rcshf2(lcshf(we))))), nor(we, lcshf(we)));23;0.034792445887168844

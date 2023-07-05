@@ -1,0 +1,3 @@
+invert(or_(or_(rcshf4(rcshf2(rcshf4(rcshf4(we)))), xor(and_(lcshf2(nor(we, 1547797554)), we), 385108388)), lcshf2(xor(rcshf4(or_(we, we)), lcshf(or_(nand(we, rcshf(nand(rcshf2(rcshf2(we)), lcshf2(nor(we, 1547797554))))), lcshf4(lcshf4(we))))))));25;0.3704365987435961
+invert(or_(or_(rcshf4(rcshf4(rcshf4(we))), xor(and_(lcshf4(we), we), 385108388)), lcshf2(xor(we, lcshf(or_(nand(we, rcshf(385108388)), lcshf(nor(lcshf4(lcshf4(we)), and_(we, lcshf2(nor(we, 1547797554)))))))))));27;0.035587584724666464
+invert(or_(or_(rcshf4(rcshf4(rcshf4(we))), and_(lcshf4(we), we)), lcshf2(xor(we, lcshf(or_(nand(rcshf4(rcshf4(rcshf4(we))), rcshf4(we)), lcshf(nor(nor(we, lcshf4(we)), lcshf2(nor(we, 1547797554))))))))));27;0.027640881518711635

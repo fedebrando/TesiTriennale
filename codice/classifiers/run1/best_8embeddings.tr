@@ -1,0 +1,2 @@
+or_(nor(invert(lcshf4(or_(lcshf(w1), rcshf4(2212680076)))), lcshf(lcshf(rcshf4(w1)))), lcshf4(and_(and_(or_(rcshf4(nand(nand(w0, lcshf(w1)), lcshf4(w2))), or_(w0, w1)), lcshf4(rcshf4(xor(3700292275, w2)))), lcshf4(lcshf4(rcshf2(rcshf4(w1)))))));0.10096859364174907
+or_(nor(invert(lcshf4(or_(lcshf(w1), rcshf4(2212680076)))), lcshf(lcshf(rcshf4(w1)))), lcshf4(and_(and_(lcshf(lcshf4(nand(rcshf4(lcshf(w0)), lcshf(rcshf4(w1))))), lcshf4(lcshf(lcshf(rcshf4(w1))))), rcshf2(invert(lcshf4(and_(w1, w0)))))));0.10096859364174907

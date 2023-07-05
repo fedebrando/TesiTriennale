@@ -1,0 +1,2 @@
+invert(or_(rcshf4(invert(lcshf(or_(rcshf4(rcshf2(rcshf4(w3))), w3)))), xor(nor(or_(w2, or_(w3, lcshf4(lcshf4(w3)))), invert(rcshf4(2980495082))), or_(rcshf4(invert(lcshf(or_(or_(and_(lcshf(3649126401), rcshf2(w1)), lcshf4(lcshf4(3359652734))), w3)))), lcshf4(lcshf4(w3))))));0.03055280487804878
+invert(or_(rcshf4(invert(lcshf(or_(rcshf4(rcshf2(rcshf4(w3))), w3)))), xor(nor(or_(w2, invert(w1)), rcshf4(rcshf4(2980495082))), or_(rcshf4(invert(lcshf(or_(or_(and_(lcshf(3649126401), rcshf2(w1)), lcshf4(lcshf4(3359652734))), w3)))), lcshf4(lcshf4(w3))))));0.03055280487804878
